@@ -1,3 +1,3 @@
-# favspaces
+# Favorite Spaces
 
 TBD
